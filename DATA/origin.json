@@ -1,0 +1,92 @@
+[
+    {
+      "idCategory": 1,
+      "Category": "Physical Properties",
+      "Question": "When you touch silk with your hand, how does it feel compared to burlap?",
+      "Expected Answer": "Silk is soft and glides on the hand, while burlap is rough."
+    },
+    {
+      "idCategory": 1,
+      "Category": "Physical Properties",
+      "Question": "Does a wooden cube float on water? How does it behave?",
+      "Expected Answer": "Yes, it floats. Part of the cube is in the water while the other part is above it."
+    },
+    {
+      "idCategory": 1,
+      "Category": "Physical Properties",
+      "Question": "If a ceramic vase falls on the ground and you are barefoot, what might happen?",
+      "Expected Answer": "I might cut my foot."
+    },
+    {
+      "idCategory": 1,
+      "Category": "Physical Properties",
+      "Question": "Can you hold a ping pong ball in your hand?",
+      "Expected Answer": "Yes, I can hold a ping pong ball in my hand."
+    },
+    {
+      "idCategory": 1,
+      "Category": "Physical Properties",
+      "Question": "Have you ever slipped on ice?",
+      "Expected Answer": "Yes, I almost fell when I was a child."
+    },
+    {
+      "idCategory": 2,
+      "Category": "Causal Relationships",
+      "Question": "What happens if you blow on a lit candle?",
+      "Expected Answer": "The flame will go out."
+    },
+    {
+      "idCategory": 2,
+      "Category": "Causal Relationships",
+      "Question": "Have you ever popped a balloon by blowing too much air into it?",
+      "Expected Answer": "Yes, the first time it surprised me a lot with the loud noise."
+    },
+    {
+      "idCategory": 2,
+      "Category": "Causal Relationships",
+      "Question": "When you look at an aquarium, do the fish appear larger from the outside?",
+      "Expected Answer": "Yes, the glass acts like a magnifying lens."
+    },
+    {
+      "idCategory": 2,
+      "Category": "Causal Relationships",
+      "Question": "If you have an apple in your hand and drop it, what happens?",
+      "Expected Answer": "It will fall because of gravity."
+    },
+    {
+      "idCategory": 2,
+      "Category": "Causal Relationships",
+      "Question": "What happens when you heat a metal rod?",
+      "Expected Answer": "The heat will gradually spread throughout the rod."
+    },
+    {
+      "idCategory": 3,
+      "Category": "Sensory Perception",
+      "Question": "What do you feel when someone gives you a hug?",
+      "Expected Answer": "It comforts me and I feel better afterward."
+    },
+    {
+      "idCategory": 3,
+      "Category": "Sensory Perception",
+      "Question": "What does the sound of a crackling fire remind you of?",
+      "Expected Answer": "It reminds me of my parents' house when we light the fireplace."
+    },
+    {
+      "idCategory": 3,
+      "Category": "Sensory Perception",
+      "Question": "Do you like the smell of freshly cut grass?",
+      "Expected Answer": "Yes, it's a smell I really like."
+    },
+    {
+      "idCategory": 3,
+      "Category": "Sensory Perception",
+      "Question": "What is the sensation of touching a cat's fur when it is wet?",
+      "Expected Answer": "It's not very pleasant, and my hands get wet afterward."
+    },
+    {
+      "idCategory": 3,
+      "Category": "Sensory Perception",
+      "Question": "Do you enjoy being out of breath after running?",
+      "Expected Answer": "Yes, I feel satisfied with the effort I put in."
+    }
+  ]
