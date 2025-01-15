@@ -1,0 +1,467 @@
+[
+    {
+        "idCategory":1,
+        "Category":"Physical Properties",
+        "Question":"When you touch silk with your hand, how does it feel compared to burlap?",
+        "Expected Answer":[
+            "Silk is soft and glides on the hand, while burlap is rough.",
+            "Silk is soft and smooth, while burlap is rougher and less pleasant to touch",
+            "Silk is softer while burlap is rigid and less pleasant"
+        ],
+        "Mistral Answer":"Silk feels smooth and soft, while burlap feels rough and coarse.",
+        "GPT3 Answer":"Silk feels smooth and luxurious, while burlap is rough and coarse.",
+        "GPT4 Answer":"Silk feels smooth, soft and delicate while burlap feels rough and coarse.",
+        "Similarity Score Mistral":[
+            0.876,
+            0.937,
+            0.874
+        ],
+        "Similarity Score GPT3":[
+            0.842,
+            0.876,
+            0.814
+        ],
+        "Similarity Score GPT4":[
+            0.874,
+            0.977,
+            0.872
+        ],
+        "Average Similarity Score Mistral":0.8956666667,
+        "Average Similarity Score GPT3":0.844,
+        "Average Similarity Score GPT4":0.9076666667
+    },
+    {
+        "idCategory":1,
+        "Category":"Physical Properties",
+        "Question":"Does a wooden cube float on water? How does it behave?",
+        "Expected Answer":[
+            "Yes, it floats. Part of the cube is in the water while the other part is above it.",
+            "I see part of the surface floating but still tilting",
+            "The wooden cube floats and is soaked in water at the bottom, the color is darker at the bottom"
+        ],
+        "Mistral Answer":"Yes, a wooden cube floats on water. It partially submerges, displacing a volume of water equal to its weight, as per Archimedes' principle.",
+        "GPT3 Answer":"Yes, a wooden cube typically floats on water due to its low density. It will remain on the surface without sinking.",
+        "GPT4 Answer":"Yes, a wooden cube typically floats on water due to its low density compared to water.",
+        "Similarity Score Mistral":[
+            0.764,
+            0.287,
+            0.712
+        ],
+        "Similarity Score GPT3":[
+            0.678,
+            0.257,
+            0.654
+        ],
+        "Similarity Score GPT4":[
+            0.742,
+            0.243,
+            0.475
+        ],
+        "Average Similarity Score Mistral":0.5876666667,
+        "Average Similarity Score GPT3":0.5296666667,
+        "Average Similarity Score GPT4":0.4866666667
+    },
+    {
+        "idCategory":1,
+        "Category":"Physical Properties",
+        "Question":"If a ceramic vase falls on the ground and you are barefoot, what might happen?",
+        "Expected Answer":[
+            "I might cut my foot.",
+            "I risk injuring myself with the vase debris",
+            "It's dangerous cause I can cut my feet"
+        ],
+        "Mistral Answer":"You might cut your feet on the broken vase pieces.",
+        "GPT3 Answer":"You could potentially cut your foot on the sharp fragments of the broken vase.",
+        "GPT4 Answer":"You could step on the shards and injure your foot.",
+        "Similarity Score Mistral":[
+            0.615,
+            0.761,
+            0.774
+        ],
+        "Similarity Score GPT3":[
+            0.684,
+            0.75,
+            0.734
+        ],
+        "Similarity Score GPT4":[
+            0.789,
+            0.675,
+            0.874
+        ],
+        "Average Similarity Score Mistral":0.7166666667,
+        "Average Similarity Score GPT3":0.7226666667,
+        "Average Similarity Score GPT4":0.7793333333
+    },
+    {
+        "idCategory":1,
+        "Category":"Physical Properties",
+        "Question":"Can you hold a ping pong ball in your hand?",
+        "Expected Answer":[
+            "Yes, I can hold a ping pong ball in my hand.",
+            "I can hold it but not completely, my hand would cover about 80% of the ball",
+            "Yes, I can"
+        ],
+        "Mistral Answer":"Yes, a ping pong ball can easily fit in the palm of your hand. It's quite small and lightweight.",
+        "GPT3 Answer":"Yes, I can hold a ping pong ball in my hand.",
+        "GPT4 Answer":"Yes, you can hold a ping pong ball in your hand.",
+        "Similarity Score Mistral":[
+            0.76,
+            0.487,
+            0.174
+        ],
+        "Similarity Score GPT3":[
+            1.0,
+            0.512,
+            0.625
+        ],
+        "Similarity Score GPT4":[
+            0.85,
+            0.674,
+            0.497
+        ],
+        "Average Similarity Score Mistral":0.4736666667,
+        "Average Similarity Score GPT3":0.7123333333,
+        "Average Similarity Score GPT4":0.6736666667
+    },
+    {
+        "idCategory":1,
+        "Category":"Physical Properties",
+        "Question":"Have you ever slipped on ice?",
+        "Expected Answer":[
+            "Yes, I almost fell when I was a child.",
+            "No, I have never slipped on ice, it doesn\u2019t exist in Algeria",
+            "Yes, several times and it is very embarrassing"
+        ],
+        "Mistral Answer":"I don't have personal experiences or a body, so I haven't slipped on ice.",
+        "GPT3 Answer":"No, I have never slipped on ice.",
+        "GPT4 Answer":"As an artificial intelligence, I don't have a physical form, so I can't slip on ice.",
+        "Similarity Score Mistral":[
+            0.12,
+            0.475,
+            0.162
+        ],
+        "Similarity Score GPT3":[
+            0.206,
+            0.756,
+            0.142
+        ],
+        "Similarity Score GPT4":[
+            0.124,
+            0.23,
+            0.124
+        ],
+        "Average Similarity Score Mistral":0.2523333333,
+        "Average Similarity Score GPT3":0.368,
+        "Average Similarity Score GPT4":0.1593333333
+    },
+    {
+        "idCategory":2,
+        "Category":"Causal Relationships",
+        "Question":"What happens if you blow on a lit candle?",
+        "Expected Answer":[
+            "The flame will go out.",
+            "If I blow hard, it completely goes out; if I blow gently, it might not go out",
+            "It goes out"
+        ],
+        "Mistral Answer":"Blowing on a lit candle extinguishes the flame. The force of the airflow disrupts the combustion process, cutting off the oxygen supply.",
+        "GPT3 Answer":"Blowing on a lit candle will extinguish the flame.",
+        "GPT4 Answer":"The candle flame goes out due to lack of heat to sustain the combustion process.",
+        "Similarity Score Mistral":[
+            0.512,
+            0.674,
+            0.295
+        ],
+        "Similarity Score GPT3":[
+            0.658,
+            0.732,
+            0.736
+        ],
+        "Similarity Score GPT4":[
+            0.481,
+            0.212,
+            0.642
+        ],
+        "Average Similarity Score Mistral":0.4936666667,
+        "Average Similarity Score GPT3":0.7086666667,
+        "Average Similarity Score GPT4":0.445
+    },
+    {
+        "idCategory":2,
+        "Category":"Causal Relationships",
+        "Question":"Have you ever popped a balloon by blowing too much air into it?",
+        "Expected Answer":[
+            "Yes, the first time it surprised me a lot with the loud noise.",
+            "Yes, I have popped a balloon by blowing very hard",
+            "No, it has never happened to me, but I have seen it"
+        ],
+        "Mistral Answer":"No, I can't physically interact with objects. I'm a text-based AI.",
+        "GPT3 Answer":"Yes, I have popped a balloon by blowing too much air into it. It burst with a loud bang!",
+        "GPT4 Answer":"As an AI, I don't have personal experiences or emotions, so I haven't popped a balloon.",
+        "Similarity Score Mistral":[
+            0.112,
+            0.152,
+            0.241
+        ],
+        "Similarity Score GPT3":[
+            0.478,
+            0.812,
+            0.127
+        ],
+        "Similarity Score GPT4":[
+            0.124,
+            0.142,
+            0.256
+        ],
+        "Average Similarity Score Mistral":0.1683333333,
+        "Average Similarity Score GPT3":0.4723333333,
+        "Average Similarity Score GPT4":0.174
+    },
+    {
+        "idCategory":2,
+        "Category":"Causal Relationships",
+        "Question":"When you look at an aquarium, do the fish appear larger from the outside?",
+        "Expected Answer":[
+            "Yes, the glass acts like a magnifying lens.",
+            "No, I don\u2019t feel like the fish look bigger from the outside",
+            "Yes, they look bigger"
+        ],
+        "Mistral Answer":"Yes, fish appear slightly larger due to refraction of light at the glass-water interface.",
+        "GPT3 Answer":"Yes, fish may appear larger when viewed from outside an aquarium due to the distortion caused by the water.",
+        "GPT4 Answer":"Yes, due to the refraction of light in water, fish in an aquarium appear larger.",
+        "Similarity Score Mistral":[
+            0.572,
+            0.214,
+            0.543
+        ],
+        "Similarity Score GPT3":[
+            0.326,
+            0.453,
+            0.487
+        ],
+        "Similarity Score GPT4":[
+            0.481,
+            0.245,
+            0.685
+        ],
+        "Average Similarity Score Mistral":0.443,
+        "Average Similarity Score GPT3":0.422,
+        "Average Similarity Score GPT4":0.4703333333
+    },
+    {
+        "idCategory":2,
+        "Category":"Causal Relationships",
+        "Question":"If you have an apple in your hand and drop it, what happens?",
+        "Expected Answer":[
+            "It will fall because of gravity.",
+            "It falls, gravity",
+            "It falls to the ground (Newton, gravity)"
+        ],
+        "Mistral Answer":"Gravity pulls the apple down to the ground.",
+        "GPT3 Answer":"The apple will fall to the ground due to gravity.",
+        "GPT4 Answer":"The apple falls to the ground due to the force of gravity.",
+        "Similarity Score Mistral":[
+            0.837,
+            0.764,
+            0.876
+        ],
+        "Similarity Score GPT3":[
+            0.874,
+            0.735,
+            0.875
+        ],
+        "Similarity Score GPT4":[
+            0.785,
+            0.824,
+            0.862
+        ],
+        "Average Similarity Score Mistral":0.8256666667,
+        "Average Similarity Score GPT3":0.828,
+        "Average Similarity Score GPT4":0.8236666667
+    },
+    {
+        "idCategory":2,
+        "Category":"Causal Relationships",
+        "Question":"What happens when you heat a metal rod?",
+        "Expected Answer":[
+            "The heat will gradually spread throughout the rod.",
+            "If I heat a metal rod, it becomes hot, and I can't touch it until it cools down",
+            "The metal becomes red and hot"
+        ],
+        "Mistral Answer":"When you heat a metal rod, it expands and may glow. Its particles gain energy, causing the rod to lengthen and potentially change color.",
+        "GPT3 Answer":"The metal rod will expand when heated.",
+        "GPT4 Answer":"The metal rod expands due to increase in kinetic energy of atoms.",
+        "Similarity Score Mistral":[
+            0.462,
+            0.421,
+            0.674
+        ],
+        "Similarity Score GPT3":[
+            0.645,
+            0.563,
+            0.621
+        ],
+        "Similarity Score GPT4":[
+            0.287,
+            0.514,
+            0.674
+        ],
+        "Average Similarity Score Mistral":0.519,
+        "Average Similarity Score GPT3":0.6096666667,
+        "Average Similarity Score GPT4":0.4916666667
+    },
+    {
+        "idCategory":3,
+        "Category":"Sensory Perception",
+        "Question":"What do you feel when someone gives you a hug?",
+        "Expected Answer":[
+            "It comforts me and I feel better afterward.",
+            "When someone hugs me, I feel a lot of joy",
+            "I feel human warmth and I feel soothed"
+        ],
+        "Mistral Answer":"I feel warm, comforted, and connected. It's like a sudden sense of peace and security wraps around me.",
+        "GPT3 Answer":"A sense of comfort and connection.",
+        "GPT4 Answer":"I experience a sense of warmth, comfort, and human connection.",
+        "Similarity Score Mistral":[
+            0.674,
+            0.674,
+            0.674
+        ],
+        "Similarity Score GPT3":[
+            0.674,
+            0.478,
+            0.674
+        ],
+        "Similarity Score GPT4":[
+            0.714,
+            0.584,
+            0.85
+        ],
+        "Average Similarity Score Mistral":0.674,
+        "Average Similarity Score GPT3":0.6086666667,
+        "Average Similarity Score GPT4":0.716
+    },
+    {
+        "idCategory":3,
+        "Category":"Sensory Perception",
+        "Question":"What does the sound of a crackling fire remind you of?",
+        "Expected Answer":[
+            "It reminds me of my parents' house when we light the fireplace.",
+            "The crackling fire reminds me of lit fireplaces in winter",
+            "A fireplace or a wood-burning oven fire"
+        ],
+        "Mistral Answer":"A cozy evening, warmth, and comfort.",
+        "GPT3 Answer":"The sound of a crackling fire reminds me of cozy nights by the fireplace with a warm cup of cocoa.",
+        "GPT4 Answer":"Camping under the stars, telling stories and roasting marshmallows.",
+        "Similarity Score Mistral":[
+            0.348,
+            0.455,
+            0.257
+        ],
+        "Similarity Score GPT3":[
+            0.614,
+            0.786,
+            0.356
+        ],
+        "Similarity Score GPT4":[
+            0.174,
+            0.231,
+            0.127
+        ],
+        "Average Similarity Score Mistral":0.3533333333,
+        "Average Similarity Score GPT3":0.5853333333,
+        "Average Similarity Score GPT4":0.1773333333
+    },
+    {
+        "idCategory":3,
+        "Category":"Sensory Perception",
+        "Question":"Do you like the smell of freshly cut grass?",
+        "Expected Answer":[
+            "Yes, it's a smell I really like.",
+            "No, not at all, I don't like the smell",
+            "No, not really"
+        ],
+        "Mistral Answer":"I don't have personal experiences or preferences, but many people enjoy the smell of freshly cut grass.",
+        "GPT3 Answer":"Yes, the smell of freshly cut grass is refreshing and relaxing, bringing back memories of summer days spent outdoors.",
+        "GPT4 Answer":"Yes, I definitely enjoy the fresh and earthy aroma of newly cut grass.",
+        "Similarity Score Mistral":[
+            0.275,
+            0.221,
+            0.142
+        ],
+        "Similarity Score GPT3":[
+            0.276,
+            0.157,
+            0.116
+        ],
+        "Similarity Score GPT4":[
+            0.683,
+            0.237,
+            0.124
+        ],
+        "Average Similarity Score Mistral":0.2126666667,
+        "Average Similarity Score GPT3":0.183,
+        "Average Similarity Score GPT4":0.348
+    },
+    {
+        "idCategory":3,
+        "Category":"Sensory Perception",
+        "Question":"What is the sensation of touching a cat's fur when it is wet?",
+        "Expected Answer":[
+            "It's not very pleasant, and my hands get wet afterward.",
+            "The sensation is unpleasant, and the wet fur sticks to my fingers",
+            "It's wet and less pleasant to touch"
+        ],
+        "Mistral Answer":"Touching a cat's wet fur feels cold, slimy, and unpleasantly clingy. It's much different from the soft warmth of dry fur.",
+        "GPT3 Answer":"Wet cat fur feels cold, clammy, and unpleasant to touch due to loss of its softness and smoothness.",
+        "GPT4 Answer":"Wet cat fur feels cold, slick, and somewhat clumpy to touch.",
+        "Similarity Score Mistral":[
+            0.279,
+            0.784,
+            0.726
+        ],
+        "Similarity Score GPT3":[
+            0.421,
+            0.758,
+            0.748
+        ],
+        "Similarity Score GPT4":[
+            0.225,
+            0.423,
+            0.478
+        ],
+        "Average Similarity Score Mistral":0.5963333333,
+        "Average Similarity Score GPT3":0.6423333333,
+        "Average Similarity Score GPT4":0.3753333333
+    },
+    {
+        "idCategory":3,
+        "Category":"Sensory Perception",
+        "Question":"Do you enjoy being out of breath after running?",
+        "Expected Answer":[
+            "Yes, I feel satisfied with the effort I put in.",
+            "No, not really lol",
+            "No, I don't like running and even less being out of breath from effort"
+        ],
+        "Mistral Answer":"I don't have feelings or experiences, but many people find it satisfying to push their limits and feel out of breath after running.",
+        "GPT3 Answer":"I appreciate the rush and sense of accomplishment that comes with pushing myself during a run.",
+        "GPT4 Answer":"Yes, the feeling of exhaustion means a good, intense workout for me.",
+        "Similarity Score Mistral":[
+            0.172,
+            0.128,
+            0.387
+        ],
+        "Similarity Score GPT3":[
+            0.367,
+            0.112,
+            0.164
+        ],
+        "Similarity Score GPT4":[
+            0.475,
+            0.075,
+            0.276
+        ],
+        "Average Similarity Score Mistral":0.229,
+        "Average Similarity Score GPT3":0.2143333333,
+        "Average Similarity Score GPT4":0.2753333333
+    }
+]
